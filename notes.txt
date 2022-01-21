@@ -104,3 +104,5 @@ public class KafkaJsonDeserializer<T> implements Deserializer {
 https://www.javatpoint.com/creating-kafka-consumer-in-java
 
 https://kafka.apache.org/10/javadoc/org/apache/kafka/clients/consumer/KafkaConsumer.html
+
+https://github.com/chargeahead/SpringBootKafka
