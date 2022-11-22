@@ -106,3 +106,5 @@ https://www.javatpoint.com/creating-kafka-consumer-in-java
 https://kafka.apache.org/10/javadoc/org/apache/kafka/clients/consumer/KafkaConsumer.html
 
 https://github.com/chargeahead/SpringBootKafka
+
+http://get-it-easy1.xyz/zZHQkM
